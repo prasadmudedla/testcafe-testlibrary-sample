@@ -1,0 +1,7 @@
+{
+    "plugins": [
+        "testcafe"
+    ],
+    "extends": "plugin:testcafe/recommended",
+    "parser": "babel-eslint"
+}
